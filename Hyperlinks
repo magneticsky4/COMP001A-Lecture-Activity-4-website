@@ -1,1 +1,11 @@
+<nav>
+  <ul>
+    <li><a href="#intro">Introduction</a></li>
+    <li><a href="#content">Content</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+  </ul>
+</nav>
 
+<section id="intro">...</section>
+<section id="content">...</section>
+<section id="conclusion">...</section>
